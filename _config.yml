@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Hannah M. Lewis
 tagline:             Astronomy PhD turned Data Scientist
-url:                 http://hmlewis.github.io
+url:                 http://hmlewis-astro.github.io
 paginate:            2
 baseurl:             ""
 
@@ -19,7 +19,7 @@ sass:
 author:
   name:              Hannah Lewis
   #url:               https://www.linkedin.com/in/hmlewis-astro/
-  email:             zach@thisismetis.com
+  #email:             hanlewis528@gmail.com
 
 # Custom vars
 version:             2.0.0
