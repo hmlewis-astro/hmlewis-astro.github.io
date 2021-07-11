@@ -18,10 +18,13 @@
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
+                            {% if post.md %}
+                                <p>{{ post.md }}</p>
+                            {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.link %}
                                     <li>Original Publication:
-                                        <strong><a href="{{ post.link }}">{{ post.link }}</a>
+                                        <strong><a href="{{ post.link }}">{{ post.link-abrev }}</a>
                                         </strong>
                                       </li>
                                 {% endif %}
