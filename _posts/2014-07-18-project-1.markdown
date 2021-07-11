@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+project-date: 2014-07-18
 img: cabin.png
 alt: image-alt
 link: http://data.library.virginia.edu/getting-started-with-pandas-in-python/
