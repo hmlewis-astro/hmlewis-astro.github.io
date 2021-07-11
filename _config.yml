@@ -40,8 +40,10 @@ footer:
 # Social networks usernames (many more available: twitter, facebook, stack-overflow, bitbucket, google-plus, flickr, dribbble, pinterest, instagram, tumblr, etc.)
 social:
   - title: github
+    label: GitHub
     url: http://github.com/hmlewis-astro
   - title: linkedin
+    label: LinkedIn
     url: https://www.linkedin.com/in/hmlewis-astro/
 
 # Postal address (add as many lines as necessary)
