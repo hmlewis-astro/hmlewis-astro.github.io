@@ -22,8 +22,8 @@
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline">
-                                  <i class="fa fa-fw fa-{{ network.title }}"></i>
+                                <a href="{{ network.url }}" class="btn btn-lg btn-outline" <!--class="btn-social btn-outline"-->>
+                                  <i class="fa fa-fw fa-{{ network.title }}"></i> {{ network.label }}
                                 </a>
                             </li>
 		                    {% endfor %}
