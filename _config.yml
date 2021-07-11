@@ -37,11 +37,11 @@ footer:
   social: Around the Web
   credits: Credits
 
-# Social networks usernames (many more available: Twitter, Facebook, Stack-Overflow, bitbucket, google-plus, flickr, dribbble, pinterest, instagram, tumblr, etc.)
+# Social networks usernames (many more available: twitter, facebook, stack-overflow, bitbucket, google-plus, flickr, dribbble, pinterest, instagram, tumblr, etc.)
 social:
-  - title: GitHub
+  - title: github
     url: http://github.com/hmlewis-astro
-  - title: LinkedIn
+  - title: linkedin
     url: https://www.linkedin.com/in/hmlewis-astro/
 
 # Postal address (add as many lines as necessary)
