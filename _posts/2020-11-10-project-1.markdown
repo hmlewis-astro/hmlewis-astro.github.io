@@ -4,26 +4,12 @@ modal-id: 1
 project-date: 2020-11-10
 img: covid.png
 alt: covid
-link: http://data.library.virginia.edu/getting-started-with-pandas-in-python/
+link: https://data.library.virginia.edu/getting-started-with-pandas-in-python/
 link-abrev: data.library.virginia.edu
 title: Getting Started with Pandas in Python
 description: The pandas package is an open-source software library written for data analysis in Python. In this article, we'll explore briefly some of the most commonly used functions and methods for understanding, formatting, and visualizing data with the pandas package. We'll be using the Virginia Department of Health (VDH) COVID-19 Public Use Dataset in the working example presented here.
 md: "
 
-The pandas package is an open-source software library written for data analysis in Python. Pandas allows users to import data from various file formats (comma-separated values, JSON, SQL, fits, etc.) and perform data manipulation operations, including cleaning and reshaping the data, summarizing observations, grouping data, and merging multiple datasets. In this article, we'll explore briefly some of the most commonly used function and methods for understanding, formatting, and visualizing data with the pandas package. <br><br>
 
-This package has already been [elaborately documented](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html), but so much information can easily become overwhelming. This article is meant to provide a brief introduction to the pandas package, to ease you into its use with an example dataset. We assume that you have already installed pandas as part of your Anaconda/Python 3.6.1+ installation, but if not, you can find some quick install instructions [here](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html). <br><br>
-
-We'll be using the [Virginia Department of Health (VDH) COVID-19 Public Use Dataset](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-EventDate/9d6i-p8gz) in the working example presented here, but the methods used to understand and format these data are applicable to any dataset. From the linked VDH website, you should download the data as a comma-separated values (CSV) file. The figures shown in this article are based on the available VDH data, as of 2020 November 10. <br><br>
-
-<h3>Heading level 3</h3>
-
-
-<br>
-<br>
-Is this working now???
-
-<br>
-Less space here
 "
 ---
