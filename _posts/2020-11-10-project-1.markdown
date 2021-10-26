@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 project-date: 2020-11-10
-img: covid.png
+img: covid.jpg
 alt: covid
 link: https://data.library.virginia.edu/getting-started-with-pandas-in-python/
 link-abrev: data.library.virginia.edu
