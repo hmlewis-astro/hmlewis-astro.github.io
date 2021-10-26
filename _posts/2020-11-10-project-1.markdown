@@ -9,7 +9,7 @@ link-abrev: data.library.virginia.edu
 title: Getting Started with Pandas in Python
 description: The pandas package is an open-source software library written for data analysis in Python. In this article, I will explore briefly some of the most commonly used functions and methods for understanding, formatting, and visualizing data with the pandas package. I'll be using the Virginia Department of Health (VDH) COVID-19 Public Use Dataset in the working example presented here.
 md: "
-Please follow the link below (under "Original Publication") to view the full article.
+Please follow the link below (under Original Publication) to view the full article.
 
 "
 ---
