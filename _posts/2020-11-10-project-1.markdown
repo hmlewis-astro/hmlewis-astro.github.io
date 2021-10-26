@@ -2,8 +2,8 @@
 layout: default
 modal-id: 1
 project-date: 2020-11-10
-img: cake.png
-alt: cake
+img: covid.png
+alt: covid
 link: https://data.library.virginia.edu/getting-started-with-pandas-in-python/
 link-abrev: data.library.virginia.edu
 title: Getting Started with Pandas in Python
