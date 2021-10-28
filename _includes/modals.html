@@ -16,10 +16,10 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
-                                <p>{{ post.description }}</p>
+                                <p style="text-align:justify">{{ post.description }}</p>
                             {% endif %}
                             {% if post.md %}
-                                <p  style="text-align:justify">{{ post.md }}</p>
+                                <p style="text-align:justify">{{ post.md }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.link %}
