@@ -14,6 +14,6 @@ md: "
 I published this article during my time as a StatLab Fellow with the University of Virginia Library, Research Data Services and Sciences team.
 <br><br>
 
-The article is not reproduced here; instead, please follow this link to the University of Virginia Library StatLab Blog to see the original publication.
+The article is not reproduced here; instead, please follow the link below (under "Original Publication") to the University of Virginia Library StatLab Blog to see the original publication.
 "
 ---
